@@ -7,17 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Anroid Deveopment**
+🔭 I’m currently working on A web app using React and Node.js
 
-- 🌱 I’m currently learning **React Native**
+🌱 I’m currently learning React.js and modern frontend development Node.js and backend fundamentals
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mujahid105382](https://github.com/Mujahid105382)
+👯 I’m looking to collaborate on projects that improve coding skills and teamwork.
 
-- 💬 Ask me abou **react,java,javascript,python**
+🤝 I’m looking for help with Building scalable web applications.
 
-- 📫 How to reach me **mujahid105382gc@gmail.com**
+💬 Ask me about full-stack development.
 
-- ⚡ Fun fact **I think I am so funny**
+📫 How to reach mujahid105382gc@gmail.com
+
+⚡ Fun fact I can spend hours debugging, only to realize it was a missing semicolon 😅
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
